@@ -59,9 +59,11 @@ body {
         flex-direction: row;
         align-items: center;
     }
+
     .product-image{
         flex: 0 0 40%;
     }
+    
     .product-info{
         flex: 1;
     }
